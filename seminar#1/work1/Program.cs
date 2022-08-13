@@ -5,10 +5,17 @@
 // e = -9; f = -3 -> max = -3
 
 
-int numberA = 5;
-int numberB = 7;
+Console.WriteLine("Поиск большего числа между двумя числами");
 
-Console.WriteLine("Поиск большего числа между 5 и 7");
+Console.Write("Введите первое число:");
+string inputstring1 = Console.ReadLine()!;
+int numberA = int.Parse(inputstring1);
+
+Console.Write("Введите второе число:");
+string inputstring2 = Console.ReadLine()!;
+int numberB = int.Parse(inputstring2);
+
+
 Console.WriteLine("Ответ:");
 
 if (numberA > numberB)
@@ -18,33 +25,4 @@ if (numberA > numberB)
 else 
 {
     Console.WriteLine(numberB);
-}
-int numberC = 2;
-int numberD = 10;
-
-Console.WriteLine("Поиск большего числа между 2 и 10");
-Console.WriteLine("Ответ:");
-
-if (numberC > numberD)
-{
-    Console.WriteLine(numberC);
-}
-else 
-{
-    Console.WriteLine(numberD);
-}
-
-int numberE = -9;
-int numberF = -3;
-
-Console.WriteLine("Поиск большего числа между -9 и -3");
-Console.WriteLine("Ответ:");
-
-if (numberE > numberF)
-{
-    Console.WriteLine(numberE);
-}
-else 
-{
-    Console.WriteLine(numberF);
 }
