@@ -9,7 +9,7 @@ string inputstring = Console.ReadLine()!;
 int number = int.Parse(inputstring);
 Console.WriteLine("Ответ:");
 
-int second_number = number / 10;
+int secondnumber = number / 10;
 
-Console.WriteLine(second_number % 10);
+Console.WriteLine(secondnumber % 10);
 

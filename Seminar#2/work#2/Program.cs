@@ -9,11 +9,27 @@ string inputstring = Console.ReadLine()!;
 int numberA = int.Parse(inputstring);
 Console.WriteLine("Ответ:");
 
-if(numberA/100 > 0)
-{
-    Console.WriteLine(numberA % 10);
-}
-else
+//if(numberA/100 > 0)
+//{
+ //   Console.WriteLine(numberA % 10);
+//}
+//else
+//{
+   // Console.WriteLine("третьей цифры нет");
+//}
+
+if(numberA <= 999)
 {
     Console.WriteLine("третьей цифры нет");
+}
+
+if(numberA >= 1000)
+{
+    int mid = numberA;
+    while(mid > 999)
+    {
+        mid = mid / 10;
+    }
+    numberA = mid % 10;
+Console.WriteLine(numberA);
 }
