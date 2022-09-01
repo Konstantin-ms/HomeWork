@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\bin\Debug\net6.0\Work#2.exe
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\bin\Debug\net6.0\Work#2.deps.json
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\bin\Debug\net6.0\Work#2.runtimeconfig.json
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\bin\Debug\net6.0\Work#2.dll
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\bin\Debug\net6.0\Work#2.pdb
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.dll
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\refint\Work#2.dll
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.pdb
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\Work#2.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\homeworkC#\Seminar#7\Work#2\obj\Debug\net6.0\ref\Work#2.dll
