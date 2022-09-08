@@ -1,18 +1,12 @@
-﻿int n = InputNumbers("Введите n: ");
-int count = 2;
-PrintNumber(n, count);
-Console.Write(1);
-
-void PrintNumber(int n, int count)
-{
-  if (count > n) return;
-  PrintNumber(n, count + 1);
-  Console.Write(count + ", ");
-}
-
-int InputNumbers(string input) 
-{
-  Console.Write(input);
-  int output = Convert.ToInt32(Console.ReadLine());
-  return output;
-}
+﻿Console.Write("Введите базовое Число: ");
+int baseVal = int.Parse(Console.ReadLine()!);
+Console.Write("Введите степень Число: ");
+int exp = int.Parse(Console.ReadLine()!);
+ int power(int baseValue, int exp) {
+     if (exp == 0) {
+         return 1;
+     } else {
+         return  baseValue * power(baseValue, exp -1);
+     }
+ }
+ Console.Write("В степен: " + power(baseVal, exp));
